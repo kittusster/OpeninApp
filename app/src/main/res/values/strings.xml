@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpeninApp</string>
+    <string name="ok">OK</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="no_items">No Items</string>
+    <string name="top_link">Top Link</string>
+    <string name="recent_link">Recent Link</string>
+</resources>
